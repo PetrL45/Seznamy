@@ -1,2 +1,2 @@
 # Seznamy
-odkaz: https://github.com/PetrL45/Seznamy.git
+odkaz: https://petrl45.github.io/Seznamy/
