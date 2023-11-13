@@ -1,3 +1,3 @@
-# Seznamy
-odkaz: https://petrl45.github.io/Seznamy/ 
+# Seznamy 
+https://petrl45.github.io/Seznamy/
  
